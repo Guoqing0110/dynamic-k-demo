@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="440" viewBox="0 0 920 440" role="img" aria-labelledby="title detail">
+<title id="title">Dynamic-K: nominal simulation results</title>
+<desc id="detail">Five schedulers. Energy dispersion is lower under adaptive concurrency for all five. Mean transfer efficiency stays within 1.2 percentage points of the single-donor case in every row.</desc>
+<rect width="920" height="440" rx="18" fill="#fcfaf2"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#183f44">
+<text x="29" y="40" font-size="26" fill="#183f44" font-weight="700">Does adaptive donor concurrency improve energy balance?</text>
+<rect x="30.00" y="65" width="10" height="10" rx="1" fill="#a55717"/>
+<text x="48" y="76" font-size="17" fill="#183f44" font-weight="400">Static K = 1</text>
+<circle cx="177.00" cy="70" r="5.5" fill="#007b6b"/>
+<text x="190" y="76" font-size="17" fill="#183f44" font-weight="400">Dynamic-K</text>
+<text x="29" y="119" font-size="18" fill="#183f44" font-weight="700">Scheduler</text>
+<text x="176" y="119" font-size="18" fill="#183f44" font-weight="700">Energy dispersion (J)</text>
+<text x="576" y="119" font-size="18" fill="#183f44" font-weight="700">Transfer efficiency (%)</text>
+<path d="M180.00 137V337" stroke="#dae3d7"/>
+<text x="180.00" y="363" text-anchor="middle" font-size="14">0</text>
+<path d="M288.33 137V337" stroke="#dae3d7"/>
+<text x="288.33" y="363" text-anchor="middle" font-size="14">2,000</text>
+<path d="M396.67 137V337" stroke="#dae3d7"/>
+<text x="396.67" y="363" text-anchor="middle" font-size="14">4,000</text>
+<path d="M505.00 137V337" stroke="#dae3d7"/>
+<text x="505.00" y="363" text-anchor="middle" font-size="14">6,000</text>
+<path d="M578.00 137V337" stroke="#dae3d7"/>
+<text x="578.00" y="363" text-anchor="middle" font-size="14">0</text>
+<path d="M670.67 137V337" stroke="#dae3d7"/>
+<text x="670.67" y="363" text-anchor="middle" font-size="14">20</text>
+<path d="M763.33 137V337" stroke="#dae3d7"/>
+<text x="763.33" y="363" text-anchor="middle" font-size="14">40</text>
+<path d="M856.00 137V337" stroke="#dae3d7"/>
+<text x="856.00" y="363" text-anchor="middle" font-size="14">60</text>
+<text x="29" y="159" font-size="16" fill="#183f44" font-weight="400">Average</text>
+<line x1="459.66" x2="269.84" y1="149" y2="157" stroke="#62797b" stroke-width="2"/>
+<rect x="454.66" y="144" width="10" height="10" rx="1" fill="#a55717"/>
+<circle cx="269.84" cy="157" r="5.5" fill="#007b6b"/>
+<line x1="845.81" x2="842.10" y1="149" y2="157" stroke="#62797b" stroke-width="2"/>
+<rect x="840.81" y="144" width="10" height="10" rx="1" fill="#a55717"/>
+<circle cx="842.10" cy="157" r="5.5" fill="#007b6b"/>
+<text x="29" y="202" font-size="16" fill="#183f44" font-weight="400">Baseline</text>
+<line x1="412.11" x2="265.95" y1="192" y2="200" stroke="#62797b" stroke-width="2"/>
+<rect x="407.11" y="187" width="10" height="10" rx="1" fill="#a55717"/>
+<circle cx="265.95" cy="200" r="5.5" fill="#007b6b"/>
+<line x1="809.67" x2="811.06" y1="192" y2="200" stroke="#62797b" stroke-width="2"/>
+<rect x="804.67" y="187" width="10" height="10" rx="1" fill="#a55717"/>
+<circle cx="811.06" cy="200" r="5.5" fill="#007b6b"/>
+<text x="29" y="245" font-size="16" fill="#183f44" font-weight="400">Lyapunov</text>
+<line x1="305.47" x2="247.36" y1="235" y2="243" stroke="#62797b" stroke-width="2"/>
+<rect x="300.47" y="230" width="10" height="10" rx="1" fill="#a55717"/>
+<circle cx="247.36" cy="243" r="5.5" fill="#007b6b"/>
+<line x1="853.22" x2="847.66" y1="235" y2="243" stroke="#62797b" stroke-width="2"/>
+<rect x="848.22" y="230" width="10" height="10" rx="1" fill="#a55717"/>
+<circle cx="847.66" cy="243" r="5.5" fill="#007b6b"/>
+<text x="29" y="288" font-size="16" fill="#183f44" font-weight="400">Prediction</text>
+<line x1="412.11" x2="266.37" y1="278" y2="286" stroke="#62797b" stroke-width="2"/>
+<rect x="407.11" y="273" width="10" height="10" rx="1" fill="#a55717"/>
+<circle cx="266.37" cy="286" r="5.5" fill="#007b6b"/>
+<line x1="809.67" x2="808.28" y1="278" y2="286" stroke="#62797b" stroke-width="2"/>
+<rect x="804.67" y="273" width="10" height="10" rx="1" fill="#a55717"/>
+<circle cx="808.28" cy="286" r="5.5" fill="#007b6b"/>
+<text x="29" y="331" font-size="16" fill="#183f44" font-weight="400">Power control</text>
+<line x1="453.37" x2="257.72" y1="321" y2="329" stroke="#62797b" stroke-width="2"/>
+<rect x="448.37" y="316" width="10" height="10" rx="1" fill="#a55717"/>
+<circle cx="257.72" cy="329" r="5.5" fill="#007b6b"/>
+<line x1="797.62" x2="797.16" y1="321" y2="329" stroke="#62797b" stroke-width="2"/>
+<rect x="792.62" y="316" width="10" height="10" rx="1" fill="#a55717"/>
+<circle cx="797.16" cy="329" r="5.5" fill="#007b6b"/>
+<text x="29" y="397" font-size="17" fill="#183f44" font-weight="700">Five-scheduler means: 4,219.3 to 1,503.6 J; efficiency 52.9% to 52.5%.</text>
+<text x="29" y="422" font-size="14" fill="#183f44" font-weight="400">25-node simulation · Table 2 · Lu and Butler, Ad Hoc Networks (2026)</text>
+</g></svg>
